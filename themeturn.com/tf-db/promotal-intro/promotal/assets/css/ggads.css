@@ -1,0 +1,33 @@
+
+.conten_holine{
+ display:block;
+ text-align: center;
+ margin: 5px 0;
+}
+.content__text1{
+ color:red;
+ display:block;
+ text-align: center;
+ font-size: 16px;
+ font-weight: 600;
+ margin-top: 50px;
+}
+.content__text2{
+ color:blue;
+ display:block;
+ text-align: center;
+ font-size: 16px;
+ font-weight: 500;
+}
+.content__text3{
+ color:red;
+ display:block;
+ text-align: center;
+ font-size: 16px;
+ font-weight: 500;
+
+}
+.fa-play{
+
+ color:#3298e7;
+}

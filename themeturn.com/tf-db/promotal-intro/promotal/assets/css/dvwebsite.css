@@ -1,0 +1,72 @@
+
+.table_menu{
+
+    width: 190px;
+}
+.table_menu0{
+
+    background-color: rgb(244, 236, 123);
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.machine-item{
+
+    border: 1px solid rgb(67, 69, 70);
+    border-radius: 20px;
+    width: 350px;
+    padding: 10px 10px;
+    margin: 10px 14px;
+}
+.more{
+    text-align: center;
+    color:red;
+    font-weight: 5600px;
+   
+}
+.badge{
+
+font-size: 40px;
+color:red;
+border-bottom: 4px solid rgba(182, 196, 202, 0.3);
+
+}
+.btn-dk{
+background-image: -webkit-linear-gradient(left, #f798fe, #612be1);
+width:100%;
+border: 2px solid rgb(134, 141, 141);
+border-bottom-left-radius: 25px;
+border-top-right-radius: 25px;
+color:white;
+}
+.col{
+
+display:inline-block;
+display:flex;
+margin: 10px 10px;
+}
+.red{
+background-image: -webkit-gradient(linear, left top, right top, from(#d8ff09), to(#4ba116));
+}
+.fa-solid{
+
+color: red;
+}
+.contact{
+
+font-size: 60px;
+text-align: center;
+}
+strong{
+background-color: blanchedalmond;
+border: 1px;
+border-radius: 10px;
+padding: 5px 12px;
+}
+.hover:hover{
+
+color:rgb(240, 248, 246);
+font-size: 18px;
+transition:0.5s;
+}

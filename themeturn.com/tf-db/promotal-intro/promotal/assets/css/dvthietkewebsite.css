@@ -1,0 +1,54 @@
+<style>        .content_marketing__p{
+
+            padding: 0 15px;
+            font-size: 16px;
+            line-height: 1.9;
+           
+        }
+        .content__web{
+
+            width: 100%;
+            height:615px;
+            /* background-image: -webkit-linear-gradient(left, rgba(247, 152, 254, 0.569), rgba(98, 43, 225, 0.806)); */
+            background-image: url('./assets/images/about/banner-03.jpg');
+            margin-top: 0;
+            background-size: cover;
+            
+        }
+.contact{
+
+    color:rgb(0, 106, 255);
+    font-size: 1.5rem;
+}
+.contact:hover{
+
+    color:red;
+    font-size: 1.7rem;
+    transition:0.5s;
+}
+.fa-circle-check{
+
+    
+color:#5890ff;
+    margin-right: 5px;
+}
+
+.conten__3{
+
+    display:inline-block;
+    display:flex;
+   
+    justify-content:space-between;
+   
+}
+.center{
+
+    text-align: center;
+    color:#fd0303b4;
+    font-weight: 700;
+}
+.contentext__2{
+
+    margin: 0 14px;
+}
+

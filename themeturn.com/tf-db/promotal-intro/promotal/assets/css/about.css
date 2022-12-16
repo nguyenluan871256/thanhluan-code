@@ -155,3 +155,21 @@ body{
     margin: 0 10%;
     font-size: 16px;
 }
+.bottom__footer{
+    text-transform:uppercase;
+}
+.fa-play{
+
+    color:green;
+}
+.fa-hand-point-right{
+    color:green;
+    font-size: 20px;
+}
+.colu{
+    color:blue;
+}
+.bgr__img{
+
+    wiidth:100%;
+}

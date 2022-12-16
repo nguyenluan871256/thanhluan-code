@@ -1,0 +1,39 @@
+    .feature-box data-aos{
+        background-color: aquamarine;
+
+       }
+       .menu__list{
+
+        display:flex;
+        
+       }
+       .list{
+      
+        border-radius: 5px;
+        background-color: rgb(245, 244, 236);
+        padding: 10px 10px;
+        text-align: center;
+        margin: 0 5%;
+        color:black;
+        font-weight: 500;
+      
+        justify-content: space-between;
+      
+       
+       }
+       .list:hover{
+
+        background-color: rgb(239, 231, 194);
+        transition:0.7s;
+        color:black;
+        font-weight: 500;
+       
+
+       }
+       .fa-circle-check{
+        color:
+    #588ffe;
+       }
+.bottom__footer{
+    text-transform:uppercase;
+}
